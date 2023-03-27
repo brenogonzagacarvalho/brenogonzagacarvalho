@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Relou:
 🔭 Eu sou granduando em Eng. Software pela Universidade Federal do Ceará<br><br>⚡ Atualmente trabalho com desenvolvimento mobile
 
 
