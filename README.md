@@ -1,5 +1,5 @@
 # 💫 Relou:
-🔭 Eu sou granduando em Eng. Software pela Universidade Federal do Ceará<br><br>⚡ Atualmente trabalho com desenvolvimento mobile
+🔭 Eu sou granduando em Eng. Software pela Universidade Federal do Ceará<br><br>⚡ Atualmente trabalho com desenvolvimento front-end NextJS e TailwindCSS
 
 ![Snake animation](https://github.com/brenogonzagacarvalho/brenogonzagacarvalho/blob/output/github-contribution-grid-snake.svg)
 
