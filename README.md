@@ -59,7 +59,7 @@ Atualmente, atuo em projetos que envolvem **integração entre front-end e back-
 - 🤖 **Chatbot Acadêmico** – Para a coordenação de curso da UFC, usando **Python + Flan-T5**
 - ⚙️ **Automação de Apostas** – Protótipo com **Selenium + Web UI**
 
-*(Confira mais nos meus repositórios!)*
+![*(Confira mais nos meus repositórios!)*](https://github.com/brenogonzagacarvalho?tab=repositories)
 
 ---
 
